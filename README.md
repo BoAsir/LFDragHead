@@ -14,4 +14,6 @@
 通过对LFTableHeaderView新增属性，例如CPDHeadCollectionView（头部展开的深色CollectionView视图），也可自行定义
 ![showView](./showView.png)
 
+![效果图](./效果图.gif)
+
 ![doge](./doge.png)
